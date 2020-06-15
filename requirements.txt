@@ -1,0 +1,5 @@
+pygame
+hidapi
+pyglm
+joycon-python
+pyautogui
