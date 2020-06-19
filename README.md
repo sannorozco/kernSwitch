@@ -4,7 +4,7 @@ Have fun kerning with Nintendo Switch Joycon
 Python module to kern with Nintendo Switch Joy-Con
 
 We are referring to [tokoroten-lab/joycon-python](https://github.com/tokoroten-lab/joycon-python)
-We are referring to [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering)
+and [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering)
 
 ## Install
 
